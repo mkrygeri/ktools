@@ -1,0 +1,5 @@
+device_name,flow_ip,sample_rate,snmp_ip,snmp_community
+my_core_switch,10.4.250.187,1,10.24.165.1,myCommunity
+my_firewall,10.2.251.97,1,10.2.251.96,myCommunity
+my_switch,10.2.251.107,1,10.2.251.107,myCommunity
+myrouter,10.2.250.59,1,10.1.4.1,myCommunity

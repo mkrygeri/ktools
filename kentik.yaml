@@ -1,0 +1,8 @@
+
+kentik_auth: 
+  X-CH-Auth-Email : 'KENTIK_EMAIL' #example example@example.com
+  X-CH-Auth-API-Token : 'KENTIK_API_TOKEN' 
+  Content-Type : 'Application/json' #not to be changed in most cases
+  api_url : 'https://api.kentik.com' 
+  planid : 000000 #this is th licence plan you will use when adding devices. This integer can be found in the licensing view.
+  
